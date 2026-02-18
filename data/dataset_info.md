@@ -64,6 +64,3 @@ FS2K/
 - Some identities correspond to celebrity images.
 
 ---
-
-
----
