@@ -116,15 +116,6 @@ To resume training:
 
 ---
 
-## 🧩 Future Improvements
-
-- Multi-style sketch generation  
-- Quantitative evaluation using FID / LPIPS  
-- Lightweight deployment model  
-- HuggingFace Spaces deployment  
-- Mobile-optimized inference  
-
----
 
 ## 📚 Reference
 
