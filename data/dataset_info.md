@@ -1,7 +1,3 @@
-# ==============================
-# data/dataset_info.md
-# ==============================
-
 # Dataset Information
 
 ## Dataset Name
@@ -69,24 +65,5 @@ FS2K/
 
 ---
 
-## How to Use in This Project
-
-1. Download dataset from Kaggle.
-2. Extract the `FS2K` folder.
-3. Place it inside:
-
-```
-data/FS2K/
-```
-
-4. Update the dataset path inside the training notebook if needed.
-
----
-
-## Citation / Credits
-
-Original dataset authors and sources are credited through the Kaggle dataset page and associated research publication.
-
-If you use this dataset for academic or research purposes, please cite the original authors accordingly.
 
 ---
